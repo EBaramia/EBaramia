@@ -1,4 +1,4 @@
-![MasterHead](file:///C:/Users/User/Downloads/ezgif-4-9b7cca8202.webp)
+<!-- ![MasterHead](file:///C:/Users/User/Downloads/ezgif-4-9b7cca8202.webp) -->
 <h1>Привет, меня зовут Эдуард!</h1>
 
 ### :man_technologist: Обо мне:
