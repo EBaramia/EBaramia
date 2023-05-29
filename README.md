@@ -1,4 +1,4 @@
-![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-79b532ffb3.webp)
+![MasterHead](file:///C:/Users/User/Downloads/ezgif-4-9b7cca8202.webp)
 <h1>Привет, меня зовут Эдуард!</h1>
 
 ### :man_technologist: Обо мне:
